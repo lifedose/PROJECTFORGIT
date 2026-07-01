@@ -5,5 +5,8 @@ public class projectforgit {
 		System.out.println("hello world");
 		System.out.println("purani janakiraman");
 	}
+	public void marriage() {
+		System.out.println("pj");
+	}
 
 }
